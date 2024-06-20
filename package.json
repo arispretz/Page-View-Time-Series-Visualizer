@@ -1,0 +1,21 @@
+{
+  "name": "glitch-python-project",
+  "version": "1.0.0",
+  "description": "A simple Python app running on Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "python3 main.py && node server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.21.0",
+    "@fastify/static": "^6.10.2"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/page-view-time-series-visualizer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "python",
+    "glitch"
+  ]
+}
