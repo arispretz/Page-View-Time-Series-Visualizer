@@ -11,7 +11,7 @@
     "@fastify/static": "^6.10.2"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/page-view-time-series-visualizer"
+    "url": "https://glitch.com/edit/#!/ari-page-view-time-series-visualizer"
   },
   "license": "MIT",
   "keywords": [
