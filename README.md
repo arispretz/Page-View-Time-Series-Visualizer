@@ -2,7 +2,7 @@
 
 This is one of my projects in the way to achieve "Data Analysis with Python" certification at freeCodeCamp.org. It was designed using Python. If you want to see the graphs in the live view, open the static folder.
 
-visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
+Visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
 
 Use the data to complete the following tasks:
 
